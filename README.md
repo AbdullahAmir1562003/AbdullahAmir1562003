@@ -28,7 +28,7 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:abdullahawan1256.7@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdullahawan1256.7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -42,7 +42,7 @@
 ### 💼 Freelance Work
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~017c608cb9aa841e21" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~010b527b99f7b263c8?viewMode=1&mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   &nbsp;
