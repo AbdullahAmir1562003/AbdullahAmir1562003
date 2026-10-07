@@ -1,26 +1,74 @@
-# Abdullah Amir
+<div align="center">
 
-**Computer Engineering Graduate | AI/ML Engineer & Full-Stack Web Developer**
+# Hi 👋, I'm Abdullah Amir
 
-I design and deploy end-to-end web architectures integrated with machine learning models and intelligent data pipelines. My focus centers on transforming complex predictive models and data-driven systems into responsive, production-ready web applications.
+### Full-Stack Developer & Machine Learning Enthusiast
 
----
+[![Profile views](https://komarev.com/ghpvc/?username=AbdullahAmir1562003&color=blueviolet)](https://github.com/AbdullahAmir1562003)
 
-### Core Specializations
-- **Intelligent Web Applications:** Developing full-stack web platforms powered by machine learning backends, predictive APIs, and real-time processing.
-- **Machine Learning & Data Pipelines:** End-to-end model development, regression/classification pipelines, feature engineering, and exploratory data analysis.
-- **Full-Stack Architecture:** RESTful APIs, database schema design, authentication systems, and scalable client-side interfaces.
+</div>
 
 ---
 
-### Technical Arsenal
-- **Languages:** Python, JavaScript, C++, SQL
-- **AI / Data Science:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Google Colab, Jupyter Notebooks
-- **Full-Stack & Backend:** Node.js, Express.js, MongoDB, PostgreSQL, RESTful APIs, HTML5, CSS3
-- **Tools & Environments:** Git, GitHub, Cursor, VS Code
+### 🌟 About Me
+
+- 🔭 **Currently learning:** Machine Learning, Deep Learning, PyTorch & TensorFlow
+- 💻 **Skilled in:** React, Node.js, Express, JavaScript, Python & C++
+- 🗄️ **Databases:** MongoDB, PostgreSQL & MySQL
+- 🛠️ **Tools & Workflow:** Git, GitHub, VS Code & Cursor
+- 📬 **Reach me at:** [abdullahawan1256.7@gmail.com](mailto:abdullahawan1256.7@gmail.com)
+- 💼 **Available for freelance work:** Web & AI Application Development
 
 ---
 
-### Featured Work
-- **Used Vehicle Valuation Engine:** Predictive machine learning pipeline trained to estimate pre-owned vehicle market values based on feature trends and mileage.
-- **Gym Management System:** Full-stack operational platform featuring authentication, database state management, and administrative member tracking.
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:abdullahawan1256.7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/abdullah-amir-44b495339" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 💼 Freelance Work
+
+<p align="center">
+  <a href="https://www.upwork.com" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://www.fiverr.com" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,py,cpp,html,css,mongodb,postgres,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAmir1562003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAmir1562003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAmir1562003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
