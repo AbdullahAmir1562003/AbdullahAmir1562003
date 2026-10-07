@@ -3,7 +3,7 @@
 # Hi 👋, I'm Abdullah Amir
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Learner;AI+%26+Deep+Learning+Enthusiast;React+%7C+Node.js+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Machine+Learning+Learner;React+%7C+Next.js+%7C+Node.js;Python+%7C+C%2B%2B+%7C+Modern+Data+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ### 🌟 About Me
 
-- 🔭 **Currently Learning:** Machine Learning, Computer Vision, Deep Learning, PyTorch & TensorFlow
+- 🔭 **Currently Learning:** Machine Learning, Computer Vision, PyTorch & TensorFlow
 - 💻 **Skilled In:** React, Next.js, Node.js, Express, JavaScript, Python, C++, HTML5 & CSS3
 - 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL & SQLite
 - 🛠️ **Tools & Workflows:** Git, GitHub, VS Code, Cursor & Postman
@@ -31,6 +31,7 @@
   <a href="mailto:abdullahawan1256.7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/abdullah-amir-44b495339" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -44,6 +45,7 @@
   <a href="https://www.upwork.com/freelancers/~017c608cb9aa841e21" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
+  &nbsp;
   <a href="https://www.fiverr.com/abdullahawan125" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
@@ -54,11 +56,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,py,cpp,html,css,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,pytorch,tensorflow,scikitlearn,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,py,cpp,html,css,tailwind,mongodb,postgres,mysql,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
 </p>
 
 ---
