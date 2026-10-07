@@ -2,9 +2,13 @@
 
 # Hi 👋, I'm Abdullah Amir
 
-### Full-Stack Developer & Machine Learning Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Learner;AI+%26+Deep+Learning+Enthusiast;React+%7C+Node.js+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
+</a>
 
-[![Profile views](https://komarev.com/ghpvc/?username=AbdullahAmir1562003&color=blueviolet)](https://github.com/AbdullahAmir1562003)
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=AbdullahAmir1562003&color=00bcd4&style=flat-square)](https://github.com/AbdullahAmir1562003)
 
 </div>
 
@@ -12,12 +16,12 @@
 
 ### 🌟 About Me
 
-- 🔭 **Currently learning:** Machine Learning, Deep Learning, PyTorch & TensorFlow
-- 💻 **Skilled in:** React, Node.js, Express, JavaScript, Python & C++
-- 🗄️ **Databases:** MongoDB, PostgreSQL & MySQL
-- 🛠️ **Tools & Workflow:** Git, GitHub, VS Code & Cursor
-- 📬 **Reach me at:** [abdullahawan1256.7@gmail.com](mailto:abdullahawan1256.7@gmail.com)
-- 💼 **Available for freelance work:** Web & AI Application Development
+- 🔭 **Currently Learning:** Machine Learning, Computer Vision, Deep Learning, PyTorch & TensorFlow
+- 💻 **Skilled In:** React, Next.js, Node.js, Express, JavaScript, Python, C++, HTML5 & CSS3
+- 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL & SQLite
+- 🛠️ **Tools & Workflows:** Git, GitHub, VS Code, Cursor & Postman
+- 📬 **Reach Me At:** [abdullahawan1256.7@gmail.com](mailto:abdullahawan1256.7@gmail.com)
+- 💼 **Freelancing:** Available on Upwork & Fiverr
 
 ---
 
@@ -37,10 +41,10 @@
 ### 💼 Freelance Work
 
 <p align="center">
-  <a href="https://www.upwork.com" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~017c608cb9aa841e21" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="https://www.fiverr.com" target="_blank">
+  <a href="https://www.fiverr.com/abdullahawan125" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
 </p>
@@ -50,11 +54,11 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,py,cpp,html,css,mongodb,postgres,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,py,cpp,html,css,tailwind&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,pytorch,tensorflow,scikitlearn,git,github,vscode&theme=dark" />
 </p>
 
 ---
