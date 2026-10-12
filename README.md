@@ -8,7 +8,7 @@
 
 <br/>
 
-![Views](https://hits.sh/github.com/AbdullahAmir1562003.svg?color=00bcd4)
+![Views](https://hits.sh/github.com/AbdullahAmir1562003.svg?label=profile%20views&color=00bcd4)
 
 </div>
 
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAmir1562003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/username=AbdullahAmir1562003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
