@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdullahAmir1562003&color=00bcd4&style=flat-square" alt="Profile Views" />
+![Views](https://hits.sh/github.com/AbdullahAmir1562003.svg?color=00bcd4)
 
 </div>
 
