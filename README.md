@@ -3,12 +3,12 @@
 # Hi 👋, I'm Abdullah Amir
 
 <a href="https://github.com/AbdullahAmir1562003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Machine+Learning+Learner;React+%7C+Next.js+%7C+Node.js;Python+%7C+AI+%26+Data+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Junior+AI+Engineer;React+%7C+Next.js+%7C+Node.js;Python+%7C+AI+%26+Data+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=AbdullahAmir1562003&color=00bcd4&style=flat-square)](https://github.com/AbdullahAmir1562003)
+<img src="https://komarev.com/ghpvc/?username=AbdullahAmir1562003&color=00bcd4&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -16,8 +16,8 @@
 
 ### 🌟 About Me
 
-- 🔭 **Currently Learning:** Machine Learning, Computer Vision, PyTorch & TensorFlow
-- 💻 **Skilled In:** React, Next.js, Node.js, Express, JavaScript, Python, C++, HTML5 & CSS3
+- 🔭 **Focus Areas:** Machine Learning, Predictive Modeling, Generative AI & Automation (n8n)
+- 💻 **Skilled In:** React, Next.js, Node.js, Express, Django, JavaScript, TypeScript, Python, C++
 - 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL & SQLite
 - 🛠️ **Tools & Workflows:** Git, GitHub, VS Code, Cursor & Postman
 - 📬 **Reach Me At:** [abdullahawan1256.7@gmail.com](mailto:abdullahawan1256.7@gmail.com)
@@ -56,7 +56,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,py,cpp,html,css,tailwind,mongodb,postgres,mysql,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,js,ts,py,cpp,html,css,tailwind,mongodb,postgres,mysql,pytorch,tensorflow,git,github,vscode&perline=10&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
